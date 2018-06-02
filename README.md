@@ -12,5 +12,7 @@
 	- Monetary: toal money spent per cusotmer 
 ### * What the input and output of this Python code?	
 	- Input: a csv order file containing each order's purchase day and value per customer
-	- Output: a csv file returing RFM score per customer and sorty by score and monetary
+	- Output: 
+		- Top 10 cusotmers sort by RFM score and monetary
+		- a csv file returing RFM score and relevant metrics per customer
     
