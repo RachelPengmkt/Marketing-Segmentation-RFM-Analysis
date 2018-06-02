@@ -10,7 +10,7 @@
 	- Recency: days since last purchase
 	- Frequency: times of transactions per customer
 	- Monetary: toal money spent per cusotmer 
-### * What the input and output of this Python code?	
+### * What are the input and output of this Python code?	
 	- Input: a csv order file containing each order's purchase day and value per customer
 	- Output: 
 		- Top 10 cusotmers sort by RFM score and monetary
